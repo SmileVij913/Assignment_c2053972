@@ -44,3 +44,9 @@ The rate equations and parameters used in the simulation are simplified represen
 License
 
 This project is licensed under the MIT License.
+
+LINK of Public repository(Smile913)
+https://github.com/SmileVij913/Assignment_c2053972/tree/main
+
+LINK of Private NUCode Directory
+https://github.com/newcastleuniversity-computing/c2053972_csc8330_Final_Assignment_2024
