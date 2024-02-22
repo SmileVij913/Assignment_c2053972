@@ -27,10 +27,11 @@ glycolysis_citric_cycle_simulation.py.
 python glycolysis_citric_cycle_simulation
 The simulation will generate plots showing the concentrations of metabolites over time for glycolysis and the citric acid cycle.
 
+SUMMARY
+
+> In summary, the output shows the concentrations of key metabolites involved in glycolysis (glucose, ATP, pyruvate) and the citric acid cycle (acetyl-CoA, oxaloacetate, citrate) at different stages of the simulation. These concentrations change over time as the metabolic pathways progress, and the output provides insights into how these concentrations evolve during the simulation.
 
 CUSTOMIZATION
-
-
 We can modify the initial concentrations of metabolites to simulate different starting conditions.
 We can also adjust the rate equations and parameters to explore the effects of enzyme kinetics and regulatory mechanisms.
 We can extend the script if we want to incorporate additional metabolic pathways.
@@ -39,3 +40,7 @@ We can extend the script if we want to incorporate additional metabolic pathways
 ACKNOWLEDGEMENTS
 This simulation script was created as a part of my assignment.
 The rate equations and parameters used in the simulation are simplified representations inspired by biochemical processes.
+
+License
+
+This project is licensed under the MIT License.
